@@ -1,0 +1,6 @@
+# a58.py 中定义了一个 spider，用于爬取 58 的租房信息
+# 下面的命令将会运行该 spider 并且将爬取结果保存到 a58.json 文件中
+scrapy runspider a58.py -o a58.json
+
+# 交互式方式
+scrapy shell "http://quotes.toscrape.com/page/1/"

@@ -1,0 +1,4 @@
+1. xpath
+	xpathÓï·¨£ºhttps://www.w3schools.com/xml/xpath_intro.asp
+2. sql
+	python sqlite3 ²Ù×÷ÊÖ²á£ºhttp://sebastianraschka.com/Articles/2014_sqlite_in_python_tutorial.html
